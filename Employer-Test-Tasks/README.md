@@ -1,38 +1,44 @@
-Test Tasks From Employers
-This section contains test assignments I completed during hiring processes.
-The tasks demonstrate my practical QA skills including:
-- writing test cases
-- creating checklists
-- applying test design techniques
-- analyzing requirements
-- describing testing theory and processes
+Портфолио QA инженера
+Здравствуйте! Меня зовут Юлия Налимова.
+В этом репозитории собраны примеры моей практики в тестировании программного обеспечения.
+Здесь представлены:
+- тест-кейсы
+- чек-листы
+- баг-репорты
+- тестовые задания от работодателей
+- примеры тест-дизайна
+- тестирование API
+- проверки данных через SQL
 
-1. Registration Form Testing
-Test cases for registration form validation.
-Techniques used:
-- Boundary Value Analysis
-- Negative testing
-- Input validation testing
-Includes:
-- positive scenarios
-- negative scenarios
-- validation of input fields
+ Навыки
+- Ручное тестирование
+- API тестирование
+- SQL
+- Postman
+- Swagger
+- Chrome DevTools
+- Тест-дизайн
+- Баг-репорты
+- Чек-листы
+- Регрессионное тестирование
 
-2. Component Configurator Checklist
-Detailed checklist for testing a UI configuration component
-Testing areas:
-- functional testing
-- UI behavior
-- search/filter functionality
-- drag-and-drop order changes
-- performance checks
-- UX validation
+Проекты
+Тестирование веб-приложения
+Проект тестирования корпоративного сайта:
+- тест-кейсы
+- чек-лист
+- баг-репорты
+- тестовый отчёт
 
-3. Yandex Fintech Test Assignmen
-Test tasks including:
-- explanation of Expected Result vs Actual Result
-- regression testing concepts
-- difference between test cases and checklists
-- bug report structure
-- browser request flow (DNS → HTTP → rendering)
-- test cases for date converter
+API тестирование
+Тестирование REST API с использованием Postman.
+- позитивные сценарии
+- негативные сценарии
+- проверка HTTP кодов
+
+Тестовые задания работодателей
+Реальные тестовые задания, выполненные во время прохождения отбора на позиции QA инженера.
+Включают:
+- тест-кейсы
+- чек-листы
+- вопросы по теории тестирования

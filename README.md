@@ -1,43 +1,44 @@
-# qa-portfolio
-QA Engineer Portfolio – Manual testing, API testing, SQL validation
-# QA Engineer Portfolio
-Hello! My name is Yulia Nalimova.  
-This repository contains examples of my QA work: test documentation, API testing, SQL validation and test design.
+Портфолио QA инженера
+Здравствуйте! Меня зовут Юлия Налимова.
+В этом репозитории собраны примеры моей практики в тестировании программного обеспечения.
+Здесь представлены:
+- тест-кейсы
+- чек-листы
+- баг-репорты
+- тестовые задания от работодателей
+- примеры тест-дизайна
+- тестирование API
+- проверки данных через SQL
 
-## Skills
-- Manual Testing
-- API Testing
+ Навыки
+- Ручное тестирование
+- API тестирование
 - SQL
 - Postman
 - Swagger
 - Chrome DevTools
-- Test Design
-- Bug Reporting
+- Тест-дизайн
+- Баг-репорты
+- Чек-листы
+- Регрессионное тестирование
 
-## Tools
-Postman | Swagger | SQL | DevTools | GitHub
+Проекты
+Тестирование веб-приложения
+Проект тестирования корпоративного сайта:
+- тест-кейсы
+- чек-лист
+- баг-репорты
+- тестовый отчёт
 
-## Projects
+API тестирование
+Тестирование REST API с использованием Postman.
+- позитивные сценарии
+- негативные сценарии
+- проверка HTTP кодов
 
-### Web Testing Project
-Testing of a corporate website:
-- test cases
-- checklists
-- bug reports
-- test report
-
-### API Testing Project
-Testing REST API using Postman:
-- positive tests
-- negative tests
-- status code validation
-
-### PetStore API Testing
-CRUD testing of API endpoints.
-
-### SQL Testing
-Database validation using SQL queries.
-
----
-
-This portfolio demonstrates my practical QA skills.
+Тестовые задания работодателей
+Реальные тестовые задания, выполненные во время прохождения отбора на позиции QA инженера.
+Включают:
+- тест-кейсы
+- чек-листы
+- вопросы по теории тестирования

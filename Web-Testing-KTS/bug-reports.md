@@ -1,7 +1,7 @@
 Баг №1 — Несоответствие размера шрифта заголовков
 
 Скриншот
-![Размер шрифта](screenshots/bug-01-font-size.png)
+![Размер шрифта](Web-Testing-KTS/screenshots/screenshots bug-01-font.png)
 
 Описание
 Размер шрифта заголовков отличается.
